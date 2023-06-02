@@ -14,7 +14,7 @@ In this project, we examined the different factors that impact the pricing of ho
 - Scikit Learn
 - Statsmodels
 
-# **Data**
+# Data
 The dataset utilized in this project was obtained in CSV format from Kaggle, consisting of 20,000 data points. The dataset includes the following features: id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude.
 
 ![download](https://github.com/Karapia3/dsc-phase-2-project/assets/128484473/064b4ca5-ee63-43a8-aa32-0515cabd61c1)
@@ -36,8 +36,6 @@ We used a simple linear regression model between Sqrft Living and price
 We also used two models to conduct a multiple linear regression analysis between the price, waterfront, sqrft_living and bathrooms.
 
 # Results
-
-# **Results**
 
 R-squared (uncentered): The R-squared value of 0.899 indicates that the model explains approximately 89.9% of the variance in the dependent variable (price). This suggests that the independent variables included in the model (bathrooms, sqft_living, waterfront) collectively have a strong association with the price.
 
