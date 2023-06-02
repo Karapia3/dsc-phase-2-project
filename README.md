@@ -14,8 +14,6 @@ In this project, we examined the different factors that impact the pricing of ho
 - Scikit Learn
 - Statsmodels
 
-# Data
-
 # **Data**
 The dataset utilized in this project was obtained in CSV format from Kaggle, consisting of 20,000 data points. The dataset includes the following features: id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude.
 
